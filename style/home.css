@@ -42,8 +42,9 @@ main {
 .word {
     font-size: 20px;
     font-weight: bold;
-    color: #000000;
+    color: #ffc400;
     font-family: 'Caveat', cursive, sans-serif;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 
 .register {
